@@ -14,7 +14,7 @@
     <name>es-demo-7.5</name>
 
     <properties>
-        <elasticsearch.version>7.5.0</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
     </properties>
 
 
